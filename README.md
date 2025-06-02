@@ -1,7 +1,7 @@
 # HashMap 
 
 This project implements a simple hash map from scratch in C++ — without using any built-in hash table libraries like `unordered_map`, `map`, or `dict`. It’s designed for easy learning and understanding of **how hash tables work under the hood**.
----
+
 
 # features of the code are
 
